@@ -14,10 +14,7 @@ Hardware Link: https://www.tenda.com.cn/download/detail-2908.html
 
 #### Describe
 
-In Tenda AC9 firemware is US_AC9V3.0RTL_V15.03.06.42_multi_TD01.bin，httpd's Sleep Mode  In function  ，
-
-The ability to send long post packets causes the service to crash
-
+In Tenda AC9 firemware is US_AC9V3.0RTL_V15.03.06.42_multi_TD01.bin，In httpd  Sleep mode function  ，The ability to send long post packets causes the service to crash
 
 
 #### Detail
